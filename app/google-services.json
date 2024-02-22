@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "863872142127",
+    "project_id": "tbc--maps-assign25",
+    "storage_bucket": "tbc--maps-assign25.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863872142127:android:1e7d3b1bd10f698ff66fda",
+        "android_client_info": {
+          "package_name": "com.example.tbc_googlemaps_assign25"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvkg99hrydPBUy8kIxbU8Lolvnr1xZXJw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
